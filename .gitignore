@@ -1,0 +1,26 @@
+# User-specific stuff
+**/workspace.xml
+**/tasks.xml
+**/usage.statistics.xml
+**/dictionaries
+**/shelf
+
+# intellij idea
+*.log
+*.iml
+*.ipr
+*.iws
+.idea/modules.xml
+.idea/misc.xml
+
+# libs
+**/libraries
+
+# projects' resources
+**/resources
+
+# mac
+.DS_Store
+
+# I hope it's a good idea
+**/target
